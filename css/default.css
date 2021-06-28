@@ -1,0 +1,31 @@
+body{
+  background-color:whitesmoke;
+  width:100%;
+  font-family: 'Noto Serif KR', serif;
+}
+
+#main{
+  background-color: whitesmoke;
+  width:80%;
+  margin:100px auto;
+  text-align: center;
+  border:8px solid #d74b47;
+  border-radius: 4px;
+}
+
+.main_img{
+  width:200px;
+  height:200px;
+  margin:20px auto;
+}
+
+.main_img > img{
+  width:100%;
+}
+
+#main > button {
+  margin-bottom: 25px;
+}
+
+
+
